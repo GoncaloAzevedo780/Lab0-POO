@@ -23,7 +23,7 @@ public enum Size{
     }
     
     /*
-     * Retorna  a Descrição do Tamanho do copo.
+     * Retorna  a Descrição do Tamanho da Chávena.
      */
     @Override
     public String toString(){
@@ -31,7 +31,7 @@ public enum Size{
     }
     
     /*
-     * Retorna  a Descrição do Tamanho do copo.
+     * Retorna  a Descrição do Tamanho da Chávena.
      */
     public String getDescription(){
         return description;
