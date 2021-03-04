@@ -2,10 +2,10 @@
 dependency1.from=AppStart
 dependency1.to=Size
 dependency1.type=UsesDependency
-editor.fx.0.height=768
-editor.fx.0.width=697
-editor.fx.0.x=676
-editor.fx.0.y=0
+editor.fx.0.height=784
+editor.fx.0.width=1382
+editor.fx.0.x=-8
+editor.fx.0.y=-8
 objectbench.height=130
 objectbench.width=801
 package.divider.horizontal=0.600297176820208
